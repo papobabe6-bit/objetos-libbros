@@ -33,6 +33,6 @@ La encapsulación permite proteger los datos de una clase manteniendo los atribu
 5. El programa mostrará la información de todos los libros registrados.
 
 ## Capturas de pantalla
-Markdown
-![Primera captura del programa] (Captura1.png)
-![Segunda captura del programa] (Captura 2.png)
+<img width="1917" height="1077" alt="Captura1 png" src="https://github.com/user-attachments/assets/0803d613-d31f-4927-be33-44168ca080db" />
+<img width="1907" height="1077" alt="Captura2 png" src="https://github.com/user-attachments/assets/c7f46168-5bad-4d89-8261-0400d1119c0c" />
+
